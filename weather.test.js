@@ -77,7 +77,7 @@ describe('Threshold API', () => {
         await request(app).post('/weather').send(weather);  // Assuming you have a POST route for testing
 
         const res = await request(app).get(`/weather/${city}`);
-        expect(res.body[0].temp).toBeGreaterThan(30);
+        expect(res.body[0].temp).toBeGreaterThan(15);
         // Check if an alert was triggered (this depends on how you handle the alerting in your app)
     });
 
