@@ -60,8 +60,10 @@ OWM_API_KEY=<your_api_key>
 npm start
 ```
 ### Frontend Setup 
+- open a new terminal
 - Navigate to Frontend: 
 ```bash
+cd weather-monitor
 cd weather-frontend
 
 ```
@@ -75,6 +77,11 @@ npm install
 ```bash 
 npm start
 ```
+## Implementation 
+- We can fetch data only from these cities [Delhi, Mumbai, Chennai, Bangalore, Hyderabad, Kolkata]
+- while Entering these cities make sure you enter exactly because these are case- sensitive.
+- when back-end is running it will save data for weather for every 5 minutes so when you are running the server for the first it may take some time . this is only applicable for Weather Data.
+  
 ## MongoDb setup
 - If you're using MongoDB locally, ensure MongoDB is running. If using MongoDB Atlas, update the connection string in the db.js file.
 
