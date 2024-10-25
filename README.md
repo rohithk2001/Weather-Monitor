@@ -37,7 +37,7 @@ The Weather Monitoring System is a full-stack application that provides real-tim
 
 ```bash
 git clone https://github.com/rohithk2001/Weather-Monitor.git
-cd weather-monitoring-system
+cd weather-monitor
 
 ```
 ###  Backend Setup: 
