@@ -181,7 +181,7 @@ npm start
 
 ## Running Automated Test Cases
 
--Before Running Automated tests Remove "app.test.js "from the weather-frontend/src
+- Before Running Automated tests Remove "app.test.js "from the weather-frontend/src
 
 
 
