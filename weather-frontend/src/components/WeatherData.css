@@ -1,0 +1,23 @@
+/* WeatherData.css */
+.weather-data {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .weather-data ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .weather-data li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .weather-data h2 {
+    color: #336699;
+  }
+  

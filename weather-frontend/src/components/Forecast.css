@@ -1,0 +1,23 @@
+/* Forecast.css */
+.forecast {
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .forecast ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .forecast li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .forecast h2 {
+    color: #444;
+  }
+  

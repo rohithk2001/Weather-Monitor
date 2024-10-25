@@ -1,0 +1,17 @@
+/* DailySummary.css */
+.daily-summary {
+    background-color: #f0f7ff;
+    border: 1px solid #cce0ff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .daily-summary h2 {
+    color: #00509e;
+  }
+  
+  .daily-summary p {
+    margin: 5px 0;
+  }
+  

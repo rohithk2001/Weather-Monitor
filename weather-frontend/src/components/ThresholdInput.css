@@ -1,0 +1,27 @@
+/* ThresholdInput.css */
+.threshold-input {
+    background-color: #ffeded;
+    border: 1px solid #ff9999;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .threshold-input input {
+    padding: 6px;
+    margin-right: 8px;
+  }
+  
+  .threshold-input button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
+  .threshold-input button:hover {
+    background-color: #ff1a1a;
+  }
+  

@@ -1,0 +1,17 @@
+/* ForecastSummary.css */
+.forecast-summary {
+    background-color: #fff9e6;
+    border: 1px solid #ffd480;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .forecast-summary h2 {
+    color: #ff8c1a;
+  }
+  
+  .forecast-summary p {
+    margin: 5px 0;
+  }
+  
