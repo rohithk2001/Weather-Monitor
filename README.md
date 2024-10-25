@@ -17,6 +17,12 @@ The Weather Monitoring System is a full-stack application that provides real-tim
 
 **Tests:** jest
 
+- **Other Libraries**: 
+  - `axios` for API requests
+  - `mongoose` for MongoDB connection
+  - `node-cron` for scheduled operations (if applicable)
+  - `cors` for cross-origin requests in development
+
 
 ## Features 
 
