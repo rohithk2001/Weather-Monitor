@@ -2,15 +2,7 @@
 ## Weather Monitoring System
 
 The Weather Monitoring System is a full-stack application that provides real-time weather data and forecasts for various cities. Leveraging the OpenWeatherMap API, this project enables users to retrieve current weather conditions, detailed forecasts, and summary reports, including average temperatures and humidity levels. The backend is built with Node.js and Express, providing RESTful API endpoints for seamless data retrieval. The frontend, developed using React, allows users to easily interact with the system, set temperature thresholds for alerts, and visualize weather trends. With a focus on user experience, this application aims to deliver accurate and timely weather information to help users make informed decisions based on weather conditions.
-## Table of Contents
 
-- [Tech Stack Used](#Tech)
-- [Features](#Features)
-- [Setup and Installation](#Installation)
-- [Usage](#Usage)
-- [API Reference](#API_Reference)
-- [Tests](#Running_Tests)
-- [Dynamic Testing](#Dynamic_Testing)
 ## Tech Stack Used
 
 **Front-end:** React.js
@@ -84,6 +76,7 @@ npm start
 - Set temperature thresholds to receive alerts.
 ## API Reference
 
+- Note: If you want to see the data in Celcius Format then remove the units parameter by default it shows the celcius data.
 
 #### Get all items
 
