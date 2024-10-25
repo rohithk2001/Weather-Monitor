@@ -62,7 +62,7 @@ OWM_API_KEY=<your_api_key>
 npm start
 ```
 ### Frontend Setup 
-- open a new terminal
+- Open a new terminal
 - Navigate to Frontend: 
 ```bash
 cd weather-monitor
