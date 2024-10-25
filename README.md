@@ -75,6 +75,20 @@ npm install
 ```bash 
 npm start
 ```
+## MongoDb setup
+- If you're using MongoDB locally, ensure MongoDB is running. If using MongoDB Atlas, update the connection string in the db.js file.
+
+```js
+ mongoose.connect('mongodb://localhost:27017/ruleEngineDB', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true
+});
+
+```
+- To keep things simple i have used the local databases
+
+- If using MongoDB Atlas, replace 'mongodb://localhost:27017/ruleEngineDB' with your connection string.
+  
 ## Usage
 
 - Access the application in your web browser at http://localhost:3000/
