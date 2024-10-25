@@ -37,6 +37,8 @@ The Weather Monitoring System is a full-stack application that provides real-tim
 
 ```bash
 git clone https://github.com/rohithk2001/Weather-Monitor.git
+```
+```bash
 cd weather-monitor
 
 ```
@@ -64,6 +66,8 @@ npm start
 - Navigate to Frontend: 
 ```bash
 cd weather-monitor
+```
+```bash
 cd weather-frontend
 
 ```
